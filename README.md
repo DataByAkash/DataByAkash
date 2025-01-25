@@ -1,12 +1,13 @@
 <h1>Hi, I'm Akash! <br />
 <a href="https://github.com/akashdata">Data Analyst</a>, 
-<a href="https://www.linkedin.com/in/akashchavan1/">Excel & Power BI Specialist</a> , 
-<a href="https://www.youtube.com/@AK_ONDATA">SQL</a>
+<a href="https://www.linkedin.com/in/akashchavan1/">Excel & Power BI</a> , 
+<a href="https://www.youtube.com/@AK_ONDATA">SQL</a>,
+<a href="https://www.youtube.com/@AK_ONDATA">Python</a>
 </h1>
 
 <h2>📊 Data Analytics Projects:</h2>
 
-- <b>Customer Segmentation and Profitability Analysis</b>
+- <b>Business Insight 360 PowerBI Project</b>
   - [Analysis using Excel and Power BI](https://github.com/akashdata/Customer-Segmentation)
 
 
