@@ -5,9 +5,7 @@
 <a href="https://www.youtube.com/@AK_ONDATA">Business Insights Creator</a>
 </h1>
 <h1>👋 Welcome to My GitHub!</h1>
-I'm a passionate data analyst on a mission to transform raw data into powerful stories that drive smart decision-making. Whether it's cleaning messy datasets, creating interactive dashboards, or uncovering hidden insights, I thrive on solving real-world business problems using data.
-
-
+I'm a passionate data analyst on a mission to transform raw data into powerful stories that drive smart decision-making. Whether I'm cleaning messy datasets, creating interactive dashboards, or uncovering hidden insights, I thrive on using data to solve real-world business problems.
 
 <h2>📊 Data Analytics Projects </h2>
 
